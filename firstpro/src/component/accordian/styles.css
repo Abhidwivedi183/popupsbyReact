@@ -1,0 +1,46 @@
+.imag{
+  border-radius:50%;
+  border:5px solid black;
+}
+.wrapping{
+  display:flex;
+  width:100vw;
+  background-image:linear-gradient(orange,white);
+  height:100vh;
+justify-content:space-between;
+flex-dircetion:row;
+}
+.viru{
+/* margin-left:20px; */
+/* margin-top:10px; */
+width:50vw;
+height:100%;
+border:1px solid black;
+
+
+}
+.mahi{
+  /* margin-right:20px;
+  margin-top:10px; */
+  width:50vw;
+height:100%;
+border:1px solid black;
+
+
+}
+
+.xyz{
+  position:absolute;
+  top:15%;
+
+}
+.xyz span{
+  color:red;
+  font-size:18px;
+}
+
+.xyz pre{
+margin-top:10px;
+font-size:14px;
+font-weight:400;
+}
